@@ -8,8 +8,12 @@ In this version, issues will be automatically added to this repository, but you 
 
 
 #Tech stack: 
+
 Node.js
+
 React.js
+
 Github API
+
 Google chrome plugin
 
